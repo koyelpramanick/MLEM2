@@ -1,0 +1,11 @@
+[ wind humidity temp Trip ]
+low low medium yes 
+low low low yes 
+low medium medium yes 
+low medium high yes 
+low medium high maybe 
+medium low medium maybe 
+medium low medium maybe 
+medium low medium no 
+high high high no 
+medium high high no 
